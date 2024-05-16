@@ -1,4 +1,5 @@
-Zoom Clone
+Assemble (A Zoom Clone)
+
 A Zoom Clone application built with modern web technologies. This project aims to replicate the core functionalities of Zoom, allowing users to create and join video calls seamlessly.
 
 Features
